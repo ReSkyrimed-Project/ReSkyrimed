@@ -1,7 +1,7 @@
 ## Main
 | Key | Function |
 |-----|-----------|
-| **M1** | Power Attacks (default) - configurable in BFCO MCM |
+| **M4** | Power Attacks (Mouse Left Backward Button default) - configurable in BFCO MCM |
 | **F10** | dMenu |
 | **Shift + C** | Improved Camera |
 | **Shift + O** | OAR |
