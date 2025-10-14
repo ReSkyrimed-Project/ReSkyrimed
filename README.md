@@ -115,8 +115,8 @@ The more it crashes, the more information I can gather about the root cause.
 Share at `#📁bug-reports` 
 
 ## FAQ
-### Can I uncap the FPS.
-The list is capped at 60 FPS by default. [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705) FPS is uncapped. If you wish to uncap the FPS, then you can do so by pressing `END` key in-game. I have purposely left uncap FPS tab open, so It should be easy to find.
+### Can I uncap the FPS?
+The list is capped at 60 FPS by default. [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705) FPS is uncapped. If you wish to uncap the FPS, then you can do so by pressing `SHIFT` + `ENTER` key in-game to open ENB menu. I have purposely left uncap FPS tab open, so It should be easy to find.
 
 ### Why is there a FPS cap?
 Most people would say due to the scripting engine limitations, while that is true the main reason behind fps cap is consistency in motion smoothness.
