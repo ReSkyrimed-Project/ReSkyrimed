@@ -1,4 +1,4 @@
-[![Banner](https://raw.githubusercontent.com/ReSkyrimed-Project/ReSkyrimed/main/Images/banner.png "Banner")](#)
+[![Banner](./Images/logo.png "Banner")](#)
 <p align="center">
   <a href="#/">Read Me</a> |
   <a href="#/GUIDE">Gameplay Guide</a> |
