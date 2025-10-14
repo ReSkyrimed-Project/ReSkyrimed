@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/ReSkyrimed-Project/ReSkyrimed/refs/heads/main/Images/logo.png)
+![Banner](https://github.com/ReSkyrimed-Project/ReSkyrimed/blob/main/Images/logo.png?raw=true)
 <p align="center">
   <a href="#/">Read Me</a> |
   <a href="#/GUIDE">Gameplay Guide</a> |
