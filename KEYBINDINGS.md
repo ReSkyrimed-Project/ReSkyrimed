@@ -13,7 +13,7 @@
 | **C** | Shout |
 | **Caps Lock** | Wheeler |
 | **Shift** | Sprint |
-| **Left Ctrl** | Photo Mode |
+| **Right Ctrl** | Photo Mode |
 
 ## Skyrim
 | Key | Function |
