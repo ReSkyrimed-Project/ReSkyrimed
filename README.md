@@ -12,6 +12,7 @@
 ---
 ## Introduction
 ReSkyrimed is a Wabbajack modlist built for immersion-focused gameplay, offering a bit of everything while emphasizing small details to create a good modern RPG-like experience where I can just play Skyrim without worrying about anything else. Consistency is key, optimized for good FPS, every important location is designed to feel distinct and memorable, with its own atmosphere. Ment to be played with very little UI elements as possible.
+It draws inspiration from Skyblivion and the Oblivion Remaster projects to keep the world cohesive and unmistakably Skyrim.
 
 ## System Requirements
 |  | Minimum | Medium | Best Experience
@@ -144,7 +145,7 @@ Check the `SKSE INI's`, `MCM Helper INI's` & `UI INI's` mod. Modify the INI file
 Follow this [guide](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html) made by Wabbajack `Unable to download 'Curios' files` & all other Wabbajack related issues.
 
 ## Conclusion
-ReSkyrimed, I think, is a little bit of a weird modlist that follows a single-person author’s goals, and the things it does separate it from most modlists. It doesn’t have a “catchphrase” like “Next Gen Visual Overhaul”, or so. The whole inspiration was heavily taken from what Skyblivion/Oblivion Remaster were doing, and bringing that to Skyrim without overdoing it or making you question “is this Skyrim anymore?” If the modlist runs and plays like Skyrim, it doesn’t necessarily mean ReSkyrimed is a Vanilla+ modlist as well. Almost every aspect of Skyrim has been touched or changed; not a lot is vanilla.
+ReSkyrimed is a deliberately distinctive modlist that follows a single-author vision, and the choices it makes set it apart from most lists. It doesn’t chase a catchphrase; the aim is a cohesive experience that still feels like Skyrim. It isn’t a Vanilla+ list—almost every aspect has been touched or changed, yet the result remains familiar and playable.
 
 ## Credits & Thanks
 ### I wouldn't even consider making the modlist with out this talented Authors:
