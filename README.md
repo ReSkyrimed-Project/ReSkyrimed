@@ -12,7 +12,7 @@
 ---
 ## Introduction
 ReSkyrimed is a Wabbajack modlist built for immersion-focused gameplay, offering a bit of everything while emphasizing small details to create a good modern RPG-like experience where I can just play Skyrim without worrying about anything else. Consistency is key, optimized for good FPS, every important location is designed to feel distinct and memorable, with its own atmosphere. Ment to be played with very little UI elements as possible.\
-It draws inspiration from Skyblivion and the Oblivion Remaster projects to keep the world cohesive and unmistakably Skyrim.
+It draws inspiration from Skyblivion and the Oblivion Remaster to keep the world cohesive and unmistakably Skyrim.
 
 ## System Requirements
 |  | Minimum | Medium | Best Experience
