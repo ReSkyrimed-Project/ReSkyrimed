@@ -141,11 +141,11 @@ Check the `SKSE INI's`, `MCM Helper INI's` & `UI INI's` mod. Modify the INI file
 ### Wabbajack failed to download Curios Creation Club Content
 Follow this [guide](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html) made by Wabbajack `Unable to download 'Curios' files` & all other Wabbajack related issues.
 
-### Things to know
-## MO2 Optional Separator
+## Things to know
+### MO2 Optional Separator
 This Separator is where you can pick and choose Optional Mods you would like to enable.
 
-## MO2 Optional Separator for Ultrawide Support
+### MO2 Optional Separator for Ultrawide Support
 Ultrawide support isn’t automatic. Enable the mods that match your ultrawide display’s aspect ratio or resolution.
 
 ## Conclusion
