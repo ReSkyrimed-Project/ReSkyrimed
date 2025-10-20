@@ -90,9 +90,6 @@ If you have less then 300GB on a SSD you tried to install ReSkyrimed on, you can
 4. Do not install to `Program Files`, OneDrive, or other protected folders.
 5. Launch Wabbajack from `C:\Wabbajack`
 
-
-
-
 ### Steam Setup
 > [!TIP]
 > To prevent headaches when installling a Webbajack modlist.
@@ -143,6 +140,13 @@ Check the `SKSE INI's`, `MCM Helper INI's` & `UI INI's` mod. Modify the INI file
 
 ### Wabbajack failed to download Curios Creation Club Content
 Follow this [guide](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html) made by Wabbajack `Unable to download 'Curios' files` & all other Wabbajack related issues.
+
+### Things to know
+## MO2 Optional Separator
+This Separator is where you can pick and choose Optional Mods you would like to enable.
+
+## MO2 Optional Separator for Ultrawide Support
+Ultrawide support isn’t automatic. Enable the mods that match your ultrawide display’s aspect ratio or resolution.
 
 ## Conclusion
 ReSkyrimed is a deliberately distinctive modlist that follows a single-author vision, and the choices it makes set it apart from most lists. It doesn’t chase a catchphrase; the aim is a cohesive experience that still feels like Skyrim. It isn’t a Vanilla+ list, almost every aspect has been touched or changed, yet the result remains familiar and playable.
