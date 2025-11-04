@@ -164,8 +164,8 @@ ReSkyrimed is a deliberately distinctive modlist that follows a single-author vi
 [riverbord](https://next.nexusmods.com/profile/riverbord?gameId=1704) Giving a lot of assistance! Early days of modding!\
 [ra2phoenix](https://next.nexusmods.com/profile/ra2phoenix?gameId=1704) Giving a lot of assistance! Check out [Skyrim Unification Project ](https://skyrimunificationproject.github.io/) Basiclly ReSkyrimed on Steroids!\
 [GGUNIT](https://next.nexusmods.com/profile/GGUNIT?gameId=1704) Assistance with Lux issues & hot fixes.\
-[JPSteel2](https://www.nexusmods.com/skyrimspecialedition/mods/775304) Assistance with Northern Roads issues.
-[W1ter](https://next.nexusmods.com/profile/W1terr) Feedback and Assistance.
-[demi] UI help and Assistance
+[JPSteel2](https://www.nexusmods.com/skyrimspecialedition/mods/775304) Assistance with Northern Roads issues.\
+[W1ter](https://next.nexusmods.com/profile/W1terr) Feedback and Assistance.\
+[demi](https://www.youtube.com/watch?v=xvFZjo5PgG0) UI help and Assistance
 
 #### And all the Testers from ReSkyrimed Guild Discord Server! <br><br><br><br>
