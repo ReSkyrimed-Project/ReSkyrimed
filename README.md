@@ -166,6 +166,6 @@ ReSkyrimed is a deliberately distinctive modlist that follows a single-author vi
 [GGUNIT](https://next.nexusmods.com/profile/GGUNIT?gameId=1704) Assistance with Lux issues & hot fixes.\
 [JPSteel2](https://www.nexusmods.com/skyrimspecialedition/mods/775304) Assistance with Northern Roads issues.\
 [W1ter](https://next.nexusmods.com/profile/W1terr) Feedback and Assistance.\
-[demi](https://www.youtube.com/watch?v=xvFZjo5PgG0) UI help and Assistance
+[demi](https://www.youtube.com/watch?v=xvFZjo5PgG0) UI help and Assistance.
 
 #### And all the Testers from ReSkyrimed Guild Discord Server! <br><br><br><br>
