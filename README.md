@@ -122,6 +122,9 @@ Most people would say due to the scripting engine limitations, while that is tru
 ### Can't put an item into Wheeler! 
 Drop and pick up the item again. Usually an issue with items that are added via a script, and not picked by the player.
 
+### Why does 3rd Person have vanilla camera?
+It’s most likely because you used the `coc` command from the main menu instead of starting a new game. Start a new game so the 3rd-person camera can initialize properly.
+
 ### I can't power attack?
 Open in game MCM menu -> Click on `BFCO` -> Change `Hotkey: PowerAttack` to your desired button.
 
