@@ -80,7 +80,7 @@ Consider getting [Nexus](https://www.nexusmods.com) Mods Premium, it lets Wabbaj
 If you have less then 300GB on a SSD you tried to install ReSkyrimed on, you can always get words worst HDD or external hard drive, then tell Webbajack to put your downloads there.
 
 ### Total Download
-- **Download:** `~130GB`
+- **Download:** `~110GB`
 - **Install:**  `~140GB` - Including Stock Game Folder
 
 ### Installing Wabbajack
