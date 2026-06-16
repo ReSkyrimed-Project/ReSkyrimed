@@ -119,8 +119,11 @@ The list is capped at 60 FPS by default. [SSE Display Tweaks](https://www.nexusm
 ### Why is there a FPS cap?
 Most people would say due to the scripting engine limitations, while that is true the main reason behind fps cap is consistency in motion smoothness.
 
+### Do you need to wait for MCM menu's to loaded before you can exit like other modlist?
+No, a lot of optimization has been done to provide a seamless experience. By the time you open RaceMenu and then close it, everything should already be loaded.
+
 ### Can't put an item into Wheeler! 
-Drop and pick up the item again. Usually an issue with items that are added via a script, and not picked by the player.
+Drop and pick up the item again or try equipping. Usually an issue with items that are added via a script, and not picked by the player.
 
 ### Why does 3rd Person have vanilla camera?
 It’s most likely because you used the `coc` command from the main menu instead of starting a new game. Start a new game so the 3rd-person camera can initialize properly.
