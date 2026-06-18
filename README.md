@@ -18,7 +18,7 @@ It draws inspiration from Skyblivion and the Oblivion Remaster to keep the world
 |  | Minimum | Medium | Best Experience
 | :--- | :------: | :------: | :------: |
 | CPU | Ryzen 5 5600 / Intel i5 12400F | Ryzen 7 5800x3D / Intel i7-12700K | Ryzen 7 9700X / Intel i7-14700K |
-| GPU | RTX 3060 / RX 7600XT | RTX 4070 / RX 7800XT | RTX 5070Ti / RX 9070 |
+| GPU | RTX 3060 / RX 6600XT | RTX 4070 / RX 7800XT | RTX 5070Ti / RX 9070 |
 | RAM | 16GB | 32GB | 32GB |
 | Storage | 300GB SSD | 300GB M.2 SSD | 300GB NVME SSD  |
 | Screen | 1920 x 1080 | 1920 x 1080 / 2560 x 1440 | 2560 x 1440 / 3840 x 2160 |
