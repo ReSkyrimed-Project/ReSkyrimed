@@ -1,4 +1,4 @@
-[![Banner](./Images/logo.png "Banner")](#)
+[![Banner](./Images/banner.png "Banner")](#)
 <p align="center">
   <a href="#/">Read Me</a> |
   <a href="#/GUIDE">Gameplay Guide</a> |
