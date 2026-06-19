@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "ReSkyrimed",
+    "description": "ReSkyrimed is a fully curated immersion list built to immerse you in the world of Skyrim, whether it be through overhauled exploration, audio, combat, gameplay, or quest tweaks and enhancements to the story.",
+    "author": "Yuuri",
+    "maintainers": [
+      "https://github.com/Abi822"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Steam",
+      "DLC Required",
+      "Total Overhaul"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/ReSkyrimed-Project/ReSkyrimed/refs/heads/main/Images/bannerupdated.png",
+      "readme": "https://reskyrimed-project.github.io/ReSkyrimed",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "ReSkyrimedProject",
+      "discordURL": "https://discord.gg/8vm8HgJ2hc"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "gWjBr1lN61g=",
+      "Size": 3866049883,
+      "NumberOfArchives": 1601,
+      "SizeOfArchives": 132330253059,
+      "NumberOfInstalledFiles": 182099,
+      "SizeOfInstalledFiles": 164726238570
+    },
+    "version": "0.8"
+  }
+]
