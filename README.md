@@ -101,15 +101,15 @@ If you have less then 300GB on a SSD you tried to install ReSkyrimed on, you can
 ## Modlist Assistance & Support
 >Join our [Discord](https://discord.gg/55kHAH7T6t) 
 
-### Need help 
+### Need help? 
 Send your request in `#🆘support`
 
-### Game Crashed
+### Game Crashed?
 Share your crash log at `#🔧share-crashlogs`
 
 The more it crashes, the more information I can gather about the root cause.
 
-### Game bugs and issues
+### Game bugs and issues?
 Share at `#📁bug-reports` 
 
 ## FAQ
