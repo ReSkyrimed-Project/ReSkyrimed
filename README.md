@@ -149,10 +149,7 @@ Follow this [guide](https://wiki.wabbajack.org/user_documentation/Troubleshootin
 
 ## Things to know
 ### MO2 Optional Separator
-This Separator is where you can pick and choose Optional Mods you would like to enable.
-
-### MO2 Optional Separator for Ultrawide Support
-Ultrawide support isn’t automatic. Enable the mods that match your ultrawide display’s aspect ratio or resolution.
+This Separator is where you can pick and choose Optional Mods you would like to enable. Most UI In there are automaticlly enabled based on your system hardware.
 
 ## Credits & Thanks
 ### I wouldn't even consider making the modlist with out this talented Authors:
