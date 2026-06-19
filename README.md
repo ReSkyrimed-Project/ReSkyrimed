@@ -81,7 +81,7 @@ If you have less then 300GB on a SSD you tried to install ReSkyrimed on, you can
 
 ### Total Download
 - **Download:** `~110GB`
-- **Install:**  `~140GB` - Including Stock Game Folder
+- **Install:**  `~150GB` - Including Stock Game Folder
 
 ### Installing Wabbajack
 1. Download the [latest Wabbajack](https://www.wabbajack.org/).
