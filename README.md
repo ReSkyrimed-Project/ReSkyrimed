@@ -141,7 +141,7 @@ Yes, after Wabbajack finishes installing. The downside is that you can’t easil
 Check the `SKSE INI's`, `MCM Helper INI's` & `UI INI's` mod. Modify the INI files there.
 
 ### I saw ReSkyrimed uses Rootbuilder, does it copy files to Skyrim Steam Install location?
-1) No, for end user Rootbuilder is basically disabled. 
+1) No, not for end users. Rootbuilder is basically disabled. 
 2) ReSkyrimed uses Wabbajack’s Stock Game feature to copy your Steam installation of Skyrim into the ReSkyrimed install directory. This leaves your Steam copy untouched and prevents Skyrim updates from breaking the list.
 
 ### Wabbajack failed to download Curios Creation Club Content
