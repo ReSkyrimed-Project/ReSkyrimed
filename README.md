@@ -154,9 +154,6 @@ This Separator is where you can pick and choose Optional Mods you would like to 
 ### MO2 Optional Separator for Ultrawide Support
 Ultrawide support isn’t automatic. Enable the mods that match your ultrawide display’s aspect ratio or resolution.
 
-## Conclusion
-ReSkyrimed is a deliberately distinctive modlist that follows a single-author vision, and the choices it makes set it apart from most lists. It doesn’t chase a catchphrase; the aim is a cohesive experience that still feels like Skyrim. It isn’t a Vanilla+ list, almost every aspect has been touched or changed, yet the result remains familiar and playable.
-
 ## Credits & Thanks
 ### I wouldn't even consider making the modlist with out this talented Authors:
 [jkrojmal](https://next.nexusmods.com/profile/jkrojmal?gameId=1704)\
