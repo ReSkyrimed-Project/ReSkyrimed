@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "ReSkyrimed",
     "description": "ReSkyrimed is a fully curated immersion list built to immerse you in the world of Skyrim, whether it be through overhauled exploration, audio, combat, gameplay, or quest tweaks and enhancements to the story.",
     "author": "Yuuri",
@@ -8,6 +7,7 @@
       "github/Abi822"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "SFW",
       "Steam",
@@ -15,25 +15,31 @@
       "Total Overhaul"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ReSkyrimed-Project/ReSkyrimed/main/Images/bannerupdated.webp",
       "readme": "https://reskyrimed-project.github.io/ReSkyrimed",
-      "download": "https://authored-files.wabbajack.org/ReSkyrimed0.8.1.wabbajack_c0f641da-4b14-4409-8322-32755a8c28df",
+      "download": "https://authored-files.wabbajack.org/ReSkyrimed0.9.wabbajack_7ff4db34-f9f0-49a2-b051-f586bb90c5cb",
       "machineURL": "ReSkyrimedProject",
-      "discordURL": "https://discord.gg/8vm8HgJ2hc"
+      "discordURL": "https://discord.gg/8vm8HgJ2hc",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "hPI4aBNaZDk=",
-      "Size": 3866833433,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 132330253059,
-      "NumberOfInstalledFiles": 182286,
-      "SizeOfInstalledFiles": 164736120343
+      "Hash": "P5Q8pXKc8qM=",
+      "Size": 3867031773,
+      "NumberOfArchives": 1600,
+      "SizeOfArchives": 131419089365,
+      "NumberOfInstalledFiles": 182321,
+      "SizeOfInstalledFiles": 164755732564,
+      "TotalSize": 296174821929
     },
-    "version": "0.8.1"
+    "version": "0.9",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-06-25T17:13:52.0317796Z",
+    "repositoryName": ""
   }
 ]
