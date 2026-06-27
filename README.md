@@ -160,12 +160,12 @@ This Separator is where you can pick and choose Optional Mods you would like to 
 [TheOneTrueFuzzBeed](https://next.nexusmods.com/profile/TheOneTrueFuzzBeed?gameId=1704)\
 [RubberSpaghetti](https://next.nexusmods.com/profile/RubberSpaghetti?gameId=1704)
 
-### Special thanks to:
+### Special thanks to this legends:
 [riverbord](https://next.nexusmods.com/profile/riverbord?gameId=1704) Giving a lot of assistance! Early days of modding!\
 [ra2phoenix](https://next.nexusmods.com/profile/ra2phoenix?gameId=1704) Giving a lot of assistance! Check out [Skyrim Unification Project ](https://skyrimunificationproject.github.io/) Basiclly ReSkyrimed on Steroids!\
-[GGUNIT](https://next.nexusmods.com/profile/GGUNIT?gameId=1704) Assistance with Lux issues & hot fixes.\
-[JPSteel2](https://www.nexusmods.com/skyrimspecialedition/mods/775304) Assistance with Northern Roads issues.\
-[W1ter](https://next.nexusmods.com/profile/W1terr) Feedback and Assistance.\
+[GGUNIT](https://next.nexusmods.com/profile/GGUNIT?gameId=1704) Assistance with Lux & hot fixes.\
+[JPSteel2](https://www.nexusmods.com/skyrimspecialedition/mods/775304) Assistance with Northern Roads.\
+[W1ter](https://next.nexusmods.com/profile/W1terr) Giving a lot of Feedback and Assistance.\
 [demi](https://www.youtube.com/watch?v=xvFZjo5PgG0) UI help and Assistance.
 
 #### And all the Testers from ReSkyrimed Guild Discord Server! <br><br><br><br>
