@@ -1,7 +1,7 @@
-- [Home](/)
-- [Guide](GUIDE)
+- [ReSkyrimed](/)
+<!-- - [Guide](GUIDE) -->
 - [Keybindings](KEYBINDINGS)
-- [Modification](MODIFICATION)
+<!-- - [Modification](MODIFICATION) -->
 - **Links**
 - [![ReSkyrimed Guild](Images/Discord.svg)ReSkyrimed Guild](https://discord.gg/8vm8HgJ2hc)
 - [![Webbajack](Images/Webbajack.svg)Webbajack](https://www.wabbajack.org)

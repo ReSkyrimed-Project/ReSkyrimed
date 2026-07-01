@@ -3,26 +3,29 @@
 |-----|-----------|
 | **M4** | Power Attacks (Mouse Left Backward Button default) - configurable in BFCO MCM |
 | **F10** | dMenu |
-| **Shift + C** | Improved Camera |
+| **Shift + B** | Improved Camera |
 | **Shift + O** | OAR |
 | **Shift + Enter** | ENB |
 | **Shift + U** | KreatE |
-| **Z** | Hide All UI |
-| **X** | Hide Compass |
+| **X** | Hide UI |
+| **C** | Hide Compass |
 | **Backspace** | IED |
-| **C** | Shout |
+| **Z** | Shout |
 | **Caps Lock** | Wheeler |
 | **Shift** | Sprint |
 | **Right Ctrl** | Photo Mode |
+| **Left Alt** | Sprint |
+| **Left Ctrl** | Sneak (Hold) |
+| **Left Shift** | Walk (Hold) / Toggle Run |
+
+## Controller Layout
+![Controller Keybinds](https://raw.githubusercontent.com/ReSkyrimed-Project/ReSkyrimed/refs/heads/main/Images/Layout%20430.jpg)
+Thanks to [ROYGBIVx420!](https://www.nexusmods.com/profile/ROYGBIVx420) for taking the time to create these epic layouts!
 
 ## Skyrim
 | Key | Function |
 |-----|-----------|
-| **'** | ' |
-| **,** | , |
 | **-** | Zoom Out |
-| **.** | . |
-| **/** | / |
 | **0** | Hotkey 0 |
 | **1** | Hotkey 1 |
 | **2** | Hotkey 2 |
@@ -33,61 +36,29 @@
 | **7** | Hotkey 7 |
 | **8** | Hotkey 8 |
 | **9** | Hotkey 9 |
-| **;** | ; |
 | **=** | Zoom In |
 | **A** | Move Left |
-| **B** | B |
 | **Backspace** | Take All (Container) |
 | **C** | Auto-Move |
-| **Caps** | Caps |
 | **D** | Move Right |
 | **E** | Activate / Talk |
 | **Enter** | Enter |
 | **Esc** | System Menu |
 | **F** | Grab |
-| **F1** | F1 |
-| **F10** | F10 |
-| **F11** | F11 |
-| **F12** | F12 |
-| **F2** | F2 |
-| **F3** | F3 |
-| **F4** | F4 |
 | **F5** | Quick Save |
-| **F6** | F6 |
-| **F7** | F7 |
-| **F8** | F8 |
 | **F9** | Quick Load |
-| **G** | G |
-| **H** | H |
 | **I** | Inventory |
 | **J** | Journal |
 | **K** | Skills |
-| **L** | L |
-| **Left Alt** | Walk (Hold) / Toggle Run |
-| **Left Ctrl** | Sneak (Hold) |
-| **Left Shift** | Sprint |
 | **M** | Map |
 | **Menu** | Menu |
-| **N** | N |
-| **O** | O |
-| **P** | P |
 | **Q** | Favorites |
 | **R** | Ready/Sheathe |
-| **Right Alt** | Right Alt |
-| **Right Ctrl** | Right Ctrl |
-| **Right Shift** | Right Shift |
 | **S** | Move Back |
 | **Space** | Jump |
 | **T** | Wait |
 | **Tab** | Character Menu |
-| **U** | U |
-| **V** | V |
 | **W** | Move Forward |
-| **Win** | Win |
 | **X** | Sneak (Toggle) |
-| **Y** | Y |
-| **Z** | Shout/Power |
-| **[** | [ |
-| **\** | \ |
-| **]** | ] |
 | **`** | Console |
+
