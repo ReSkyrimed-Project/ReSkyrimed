@@ -2,7 +2,7 @@
 <p align="center">
   <a href="#/">Read Me</a> |
   <a href="#/GUIDE">Gameplay Guide</a> |
-  <a href="#/KEYBINDINGS">Keybindings</a> |
+  <a href="https://github.com/ReSkyrimed-Project/ReSkyrimed/blob/main/KEYBINDINGS.md">Keybindings</a> |
   <a href="#/MODIFICATION">Modification</a> |
   <a href="https://next.nexusmods.com/profile/Yuuri0?pk_vid=f0541747e7efdde9175914584554c7c2" target="_blank">Nexus</a> |
   <a href="https://discord.gg/8vm8HgJ2hc" target="_blank">Discord</a> |
