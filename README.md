@@ -162,7 +162,7 @@ This Separator is where you can pick and choose Optional Mods you would like to 
 
 ### Special thanks to this legends:
 [riverbord](https://next.nexusmods.com/profile/riverbord?gameId=1704) Giving a lot of assistance! Early days of modding!\
-[ra2phoenix](https://next.nexusmods.com/profile/ra2phoenix?gameId=1704) Giving a lot of assistance! Check out [Skyrim Unification Project ](https://skyrimunificationproject.github.io/) Basiclly ReSkyrimed on Steroids!\
+[ra2phoenix](https://next.nexusmods.com/profile/ra2phoenix?gameId=1704) Giving a lot of assistance!\
 [GGUNIT](https://next.nexusmods.com/profile/GGUNIT?gameId=1704) Assistance with Lux & hot fixes.\
 [JPSteel2](https://www.nexusmods.com/skyrimspecialedition/mods/775304) Assistance with Northern Roads.\
 [W1ter](https://next.nexusmods.com/profile/W1terr) Giving a lot of Feedback and Assistance.\
