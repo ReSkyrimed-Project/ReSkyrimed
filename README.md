@@ -37,6 +37,8 @@ It draws inspiration from Skyblivion and the Oblivion Remaster to keep the world
 > [!WARNING]
 > You must update Skyrim Special Edition to the latest version (1.6.1170). Anniversary Edition upgrade is required. 
 
+### Nexus Download
+Consider getting [Nexus](https://www.nexusmods.com) Mods Premium, it lets Wabbajack auto-download files, which makes setup much faster. Without it, you’ll be clicking every mod’s download button by hand.
 
 ### Antivirus
 >[!WARNING]
@@ -71,10 +73,6 @@ To set up your pagefile:
 
 ## Installation
 Do not install Modlist or Webbajack in `C:\Program Files` or `C:\Program Files (x86)` this can cause [Windows 255 character limit issue](https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=registry), and permission issues. Make sure everything is done from Root Directory.
-
-
-### Nexus Download
-Consider getting [Nexus](https://www.nexusmods.com) Mods Premium, it lets Wabbajack auto-download files, which makes setup much faster. Without it, you’ll be clicking every mod’s download button by hand.
 
 ### Running out of storage space
 If you have less then 300GB on a SSD you tried to install ReSkyrimed on, you can always get words worst HDD or external hard drive, then tell Webbajack to put your downloads there.
