@@ -1,4 +1,4 @@
-- [ReSkyrimed](/)
+- [RS Home](/)
 <!-- - [Guide](GUIDE) -->
 - [Keybindings](KEYBINDINGS)
 <!-- - [Modification](MODIFICATION) -->
