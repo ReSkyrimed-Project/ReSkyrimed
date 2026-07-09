@@ -127,7 +127,7 @@ Drop and pick up the item again or try equipping. Usually an issue with items th
 It’s most likely because you used the `coc` command from the main menu instead of starting a new game. Start a new game so the 3rd-person camera can initialize properly.
 
 ### I can't power attack?
-Open in game MCM menu -> Click on `BFCO` -> Change `Hotkey: PowerAttack` to your desired button.
+Open in game press `Shift + F2` -> Click on `BFCO` -> Change `Hotkey: PowerAttack` to your desired button.
 
 ### Is this a Vanilla+ list?
 No, and I don’t plan to make it so. There are many other Vanilla+ list that aim to enhance the base game experience, some of them do it very well. ReSkyrimed does not share that goal, nor does it excel as a Vanilla+ experience.

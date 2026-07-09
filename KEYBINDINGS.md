@@ -17,6 +17,7 @@
 | **Left Alt** | Sprint |
 | **Left Ctrl** | Sneak (Hold) |
 | **Left Shift** | Walk (Hold) / Toggle Run |
+| **Shift + F2**| BFCO/SKSE MCM |
 
 ## Controller Layout
 ![Controller Keybinds](https://raw.githubusercontent.com/ReSkyrimed-Project/ReSkyrimed/refs/heads/main/Images/Layout%20430.jpg)
