@@ -142,7 +142,7 @@ Check the `SKSE INI's`, `MCM Helper INI's` & `UI INI's` mod. Modify the INI file
 1) No, not for end users. Rootbuilder is basically disabled. 
 2) ReSkyrimed uses Wabbajack’s Stock Game feature to copy your Steam installation of Skyrim into the ReSkyrimed install directory. This leaves your Steam copy untouched and prevents Skyrim updates from breaking the list.
 
-### Wabbajack failed to download Curios Creation Club Content
+### Wabbajack failed to download Curios Creation Club Content / Anniversary Edition
 Follow this [guide](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html) made by Wabbajack `Unable to download 'Curios' files` & all other Wabbajack related issues.
 
 ## Things to know
