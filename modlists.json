@@ -22,24 +22,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ReSkyrimed-Project/ReSkyrimed/main/Images/bannerupdated.webp",
       "readme": "https://reskyrimed-project.github.io/ReSkyrimed",
-      "download": "https://authored-files.wabbajack.org/ReSkyrimed0.9.1.wabbajack_04243898-0d35-4e27-bfa8-2436899bf963",
+      "download": "https://authored-files.wabbajack.org/ReSkyrimed0.9.3.wabbajack_a7566689-aa3b-41a6-adc8-d983100b2919",
       "machineURL": "ReSkyrimedProject",
       "discordURL": "https://discord.gg/8vm8HgJ2hc",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "SnBM4YLHO80=",
-      "Size": 3862760009,
+      "Hash": "Fz+gAkYuOQY=",
+      "Size": 3862759447,
       "NumberOfArchives": 1610,
       "SizeOfArchives": 131766746849,
-      "NumberOfInstalledFiles": 183116,
-      "SizeOfInstalledFiles": 165124886220,
-      "TotalSize": 296891633069
+      "NumberOfInstalledFiles": 183115,
+      "SizeOfInstalledFiles": 165124886148,
+      "TotalSize": 296891632997
     },
     "version": "0.9.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-07-17T08:07:47.7837893Z",
+    "dateUpdated": "2026-07-17T08:55:19.2546743Z",
     "repositoryName": ""
   }
 ]
