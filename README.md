@@ -155,7 +155,6 @@ This Separator is where you can pick and choose Optional Mods you would like to 
 [gutmaw](https://next.nexusmods.com/profile/gutmaw?gameId=1704)\
 [Ryn2g](https://next.nexusmods.com/profile/Ryn2g?gameId=1704)\
 [snozz2004](https://www.nexusmods.com/skyrimspecialedition/mods/111465)\
-[TheOneTrueFuzzBeed](https://next.nexusmods.com/profile/TheOneTrueFuzzBeed?gameId=1704)\
 [RubberSpaghetti](https://next.nexusmods.com/profile/RubberSpaghetti?gameId=1704)
 
 ### Special thanks to this legends:
