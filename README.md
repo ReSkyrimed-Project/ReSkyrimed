@@ -33,6 +33,10 @@ It draws inspiration from Skyblivion and the Oblivion Remaster to keep the world
 > 
 > Only Windows 10 or 11 operating systems are supported. 
 
+## Before You Begin Important Information
+- After opening MO2 Controller uses must enable `Controller - Core` mod in `Gamepad Support` separator!
+- You do not need to change your resolution or do anything to enable ultrawide support. It is automatically applied.
+
 ## Pre-Installation Requirements
 > [!WARNING]
 > You must update Skyrim Special Edition to the latest version (1.6.1170). Anniversary Edition upgrade is required. 
