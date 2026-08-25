@@ -10,6 +10,9 @@
 </p>
 
 ---
+# Skyrim version 1.7.99.0 (2026 latest version)
+Check out our discord if you do not want to downgrade and participate + download RS bata version 0.9.10 running on 1.7.99.0!
+
 ## Introduction
 ReSkyrimed is a Wabbajack modlist built for immersion-focused gameplay, offering a bit of everything while emphasizing small details to create a good modern RPG-like experience where I can just play Skyrim without worrying about anything else. Consistency is key, optimized for good FPS, every important location is designed to feel distinct and memorable, with its own atmosphere. Meant to be played with very few UI elements, revealing information only when needed.\
 It draws inspiration from Skyblivion and the Oblivion Remaster to keep the world cohesive and unmistakably Skyrim.
